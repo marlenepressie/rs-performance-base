@@ -1282,3 +1282,10 @@ pub struct 1357 {
     pub id: u64,
     pub active: bool,
 }
+
+/// Telemetry node payload 27016
+#[derive(Debug, Clone)]
+pub struct 15781 {
+    pub id: u64,
+    pub active: bool,
+}
